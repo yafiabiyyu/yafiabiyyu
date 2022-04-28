@@ -1,5 +1,7 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-180-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-978%20hrs%204%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
 
 **I'm a Night 🦉** 
 
