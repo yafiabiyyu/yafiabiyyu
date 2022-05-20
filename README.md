@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-999%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -32,17 +32,13 @@ Sunday       24 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   54 mins             ███████████░░░░░░░░░░░░░░   44.99% 
-JSON                     20 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.69% 
-YAML                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.02% 
-Solidity                 14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.18%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 1 min         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ZrxAWallet               2 hrs 1 min         █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
