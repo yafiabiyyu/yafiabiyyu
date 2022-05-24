@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C000%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -32,13 +32,17 @@ Sunday       24 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   30 mins             ██████████████░░░░░░░░░░░   56.82% 
+Solidity                 16 mins             ███████░░░░░░░░░░░░░░░░░░   30.9% 
+Bash                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.84% 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.33% 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.1%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  53 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+KlinBot                  53 mins             █████████████████████████   100.0%
 
 ```
 
