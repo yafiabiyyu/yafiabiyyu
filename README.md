@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C006%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C008%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -45,11 +45,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   9 repos             ███████████░░░░░░░░░░░░░░   47.37% 
-Solidity                 3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-C#                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53%
+Python                   10 repos            ████████████░░░░░░░░░░░░░   50.0% 
+Solidity                 3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+C#                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
 
 ```
 
