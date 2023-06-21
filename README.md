@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C523%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C524%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
@@ -30,14 +30,15 @@ Sunday                   11 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Markdown                 2 hrs 17 mins       █████████████████████████   100.00 % 
+Markdown                 2 hrs 16 mins       █████████████████████████   99.41 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔥 Editors: 
 VS Code                  2 hrs 17 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-testing-smart-contracts-o1 hr 45 mins        ███████████████████░░░░░░   76.93 % 
-Academy                  31 mins             ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
+Identity                 1 hr 15 mins        ██████████████░░░░░░░░░░░   55.05 % 
+testing-smart-contracts-o1 hr 1 min          ███████████░░░░░░░░░░░░░░   44.95 % 
 ```
 
 **I Mostly Code in Python** 
